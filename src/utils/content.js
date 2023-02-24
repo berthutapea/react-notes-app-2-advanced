@@ -1,6 +1,6 @@
 const appPage = {
   id: {
-    title: 'Aplikasi Catatan',
+    title: 'BetHup Note',
     nav: {
       home: 'Beranda',
       archives: 'Arsip'
@@ -41,7 +41,7 @@ const appPage = {
 
 const loginPage = {
   id: {
-    header: 'Yuk, login untuk menggunakan aplikasi.',
+    header: 'Yuk, login untuk menggunakan BetHup Note.',
     footer: 'Belum punya akun?',
     footerRegisterLink: 'Daftar disini'
   },
