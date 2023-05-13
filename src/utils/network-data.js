@@ -173,4 +173,4 @@ export {
   archiveNote,
   unarchiveNote,
   deleteNote
-}
+};
